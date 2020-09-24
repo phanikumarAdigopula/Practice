@@ -9,3 +9,5 @@ scanf("%d",&a[i]);
 }
 return 0;
 }
+
+//end of file
